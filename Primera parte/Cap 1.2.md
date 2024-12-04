@@ -111,10 +111,10 @@ El Programa para la Evaluación Internacional de Alumnos desarrollado por la Org
 <table width="100%">
 <tbody>
    <td>
-A efectos de la evaluación PISA 2006, el concepto de “competencia científica aplicado a un individuo concreto hace referencia a los siguientes aspectos:
-- el conocimiento científico y el uso que se hace de ese conocimiento para identificar cuestiones, adquirir nuevos conocimientos, explicar fenómenos científicos y extraer conclusiones basadas en pruebas sobre temas relacionados con las ciencias;
-- la comprensión de los rasgos característicos de la ciencia, entendida como una forma del conocimiento y la investigación humanos;
-- la conciencia de las formas en que la ciencia y la tecnología moldean nuestro entorno material, intelectual y cultura;
+A efectos de la evaluación PISA 2006, el concepto de “competencia científica aplicado a un individuo concreto hace referencia a los siguientes aspectos:<br>
+- el conocimiento científico y el uso que se hace de ese conocimiento para identificar cuestiones, adquirir nuevos conocimientos, explicar fenómenos científicos y extraer conclusiones basadas en pruebas sobre temas relacionados con las ciencias;<br>
+- la comprensión de los rasgos característicos de la ciencia, entendida como una forma del conocimiento y la investigación humanos;<br>
+- la conciencia de las formas en que la ciencia y la tecnología moldean nuestro entorno material, intelectual y cultura;<br>
 - la disposición a implicarse en asuntos relacionados con la ciencia y a comprometerse con las ideas de la ciencia como un ciudadano reflexivo.”
  </td>
    </tbody>
