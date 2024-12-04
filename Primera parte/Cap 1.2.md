@@ -26,27 +26,27 @@ $A_1$: *Tipo de preguntas que formula la teoría.*<br>
 K: ¿Existe algún patrón de comportamiento que pueda inferirse de los datos contenidos en las tablas de Tycho Brahe, en relación con sus observaciones de las posiciones y tipos de movimiento de los planetas?<br> 
 G: ¿Qué pasa con el movimiento de un cuerpo cuando no existe interacción que modifique su velocidad durante cierto tiempo?  
 
-*$A_2$: Tipo de premisas no demostradas que se aceptan implícita o explícitamente.*<br>
+$A_2$: *Tipo de premisas no demostradas que se aceptan implícita o explícitamente.*<br>
 K: Las propiedades de simetría y regularidad de los sólidos platónico también se expresan en la armonía y simplicidad de las trayectorias de los planetas en el cielo.  <br>
 G: Toda suposición o predicción acerca de cualquier fenómeno físico necesita probarse por la vía del experimento. La validez de las hipótesis dependerá de que tan objetivos sean los mecanismos de interpretación de los resultados experimentales. 
 
-*$A_3$: Tipo de relaciones entre la teoría y el experimento.*<br>
+$A_3$: *Tipo de relaciones entre la teoría y el experimento.*<br>
 K: Lo que se observa y se mide debe describirse completamente en términos de consideraciones meramente teóricas que involucran suposiciones no necesariamente relacionadas con la realidad exterior.<br>
 G: Lo que explican las puras especulaciones teóricas es casi nada; el razonamiento lógico no es suficiente para comprender la realidad física, la cual requiere de explicaciones satisfactorias y apropiadas respecto de lo que se mide en los experimentos.
 
-*$A_4$: Papel de las matemáticas en la formulación de una teoría física.* <br>
+$A_4$: *Papel de las matemáticas en la formulación de una teoría física.* <br>
 K:  El principal resultado de tres leyes es que las trayectorias de los planetas alrededor del Sol son elipses: Primera Ley: el Sol ocupa uno de los focos de la elipse; Segunda Ley: la velocidad angular de los planetas es mayor en el afelio que en el perihelio, y Tercera Ley: los cuadrados de los periodos de revolución de los planetas son proporcionales a los cubos de las distancias medias de cada planeta al Sol. <br>
 G: A partir de relaciones formales cuantitativas entre variables físicas se obtienen resultados numéricos que se pueden comparan con los datos observacionales y las mediciones experimentales. 
 
-*$F_1$: Metodología o procedimiento empleado en el análisis de hechos y en la verificación de hipótesis.*<br>
+$F_1$: *Metodología o procedimiento empleado en el análisis de hechos y en la verificación de hipótesis.*<br>
 K: El análisis cuidadoso de las regularidades que presentan los datos observacionales conduce a nuevas organizaciones conceptuales respecto de las posiciones y los movimientos de los cuerpos celestes de acuerdo con el modelo del universo de Copérnico.<br>
 G: La racionalidad y el alcance de los modelos teóricos dependen de que las predicciones calculadas correspondan dentro de cierta precisión con las mediciones experimentales. 
 
-*$F_2$: Puntos de vista epistemológicos que caracterizan los conceptos generales en su conexión con los hechos experimentales.*<br>
+$F_2$: *Puntos de vista epistemológicos que caracterizan los conceptos generales en su conexión con los hechos experimentales.*<br>
 K: Las verdades científicas que describen a los fenómenos naturales se presentan en formas matemáticas bellas y precisas y sirven pata sistematizar las observaciones que hizo Brahe.<br>
 G: Formular preguntas a la naturaleza por medio de dispositivos y procedimientos experimentales sirve para describir fenómenos naturales y permite dar mejores explicaciones que se acercan asintóticamente a la realidad física. 
 
-*$F_3$: Construcción de un sistema coherente que integra lógicamente hechos y conceptos.*<br>  
+$F_3$: *Construcción de un sistema coherente que integra lógicamente hechos y conceptos.*<br>  
 K: Las leyes de Kepler constituyen una estructura teórica coherente que describe pero que no explica; se obtendrá una justificación teórica completa hasta que Newton formule y aplique su teoría de la gravitación.<br> 
 G: La ley de la inercia de Galileo es un caso particular de la primera ley del movimiento de Newton (el movimiento de un cuerpo seguirá siendo rectilíneo y uniforme si no existe una fuerza que modifique su estado de movimiento). El principio de relatividad de Galileo habrá de interpretarse posteriormente en el contexto de la teoría especial de la relatividad de Einstein (el movimiento es el mismo en dos referenciales diferentes que están en traslación uniforme el uno respecto del otro).
 
