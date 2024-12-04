@@ -22,7 +22,7 @@ Cuando las condiciones educativas son adversas, no solo el aprendizaje emergente
 
 Para tener una idea del tipo de aprendizajes que pudieron haber conducido a Kepler (K) y a Galileo (G) a la formulación de sus teorías respecto del movimiento, conviene analizar cuáles son, según Piaget y García (1983), los cuatro aspectos (A) y los tres factores (F) que caracterizan a la ciencia. En lo que sigue, describimos las contribuciones de estos científicos a cada una de estas siete características.
 
-*$A_1$: Tipo de preguntas que formula la teoría.*<br>
+$A_1$: *Tipo de preguntas que formula la teoría.*<br>
 K: ¿Existe algún patrón de comportamiento que pueda inferirse de los datos contenidos en las tablas de Tycho Brahe, en relación con sus observaciones de las posiciones y tipos de movimiento de los planetas?<br> 
 G: ¿Qué pasa con el movimiento de un cuerpo cuando no existe interacción que modifique su velocidad durante cierto tiempo?  
 
