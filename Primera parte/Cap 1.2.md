@@ -109,7 +109,7 @@ En educación el enfoque por competencias también busca promover exitosos desem
 El Programa para la Evaluación Internacional de Alumnos desarrollado por la Organización para la Cooperación y el Desarrollo Económico (OCDE), se ha aplicado a la evaluación de competencias lectoras, en matemáticas y en ciencias, en jóvenes de 15 años que estudian secundaria (PISA 2006). A continuación, se reproduce el cuadro 1.2 de la página 23 de dicho documento, en donde se señala que: 
 
 !!! info ""
-    A efectos de la evaluación PISA 2006, el concepto de “competencia científica aplicado a un individuo concreto hace referencia a los siguientes aspectos:
+	A efectos de la evaluación PISA 2006, el concepto de “competencia científica aplicado a un individuo concreto hace referencia a los siguientes aspectos:
     - el conocimiento científico y el uso que se hace de ese conocimiento para identificar cuestiones, adquirir nuevos conocimientos, explicar fenómenos científicos y extraer conclusiones basadas en pruebas sobre temas relacionados con las ciencias;
     - la comprensión de los rasgos característicos de la ciencia, entendida como una forma del conocimiento y la investigación humanos;
     - la conciencia de las formas en que la ciencia y la tecnología moldean nuestro entorno material, intelectual y cultura;
