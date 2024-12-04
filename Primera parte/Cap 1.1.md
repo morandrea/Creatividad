@@ -58,7 +58,7 @@ Aproximadamente en los años 385- 387 AC, en el norte de Atenas, en un lugar des
 
 !!! info ""
     La ciencia moderna se deriva directamente de la ciencia Griega, la cual proporciona un esquema, un método y un lenguaje. Todos los problemas a partir de los cuales ha crecido la ciencia moderna fueron formulados por los griegos.
-
+    
     John Desmond Bernal, Science in History, Volume 1
 
 Hoy las circunstancias han cambiado en muchos aspectos, de manera que esquemas, métodos y lenguajes son diferentes a los que caracterizaron a los griegos en la antigüedad. Sin embargo, en todos los casos el manejo de lenguajes sigue siendo primordial para lograr la interacción efectiva entre la disciplina que se enseña (los contenidos temáticos: C), a quienes se les enseña (los estudiantes: E) y quienes la enseñan (los maestros: M). Los elementos C, E y M son los vértices del llamado triángulo educativo (Fig. 1.1).
