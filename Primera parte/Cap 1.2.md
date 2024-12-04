@@ -53,7 +53,7 @@ G: La ley de la inercia de Galileo es un caso particular de la primera ley del m
 Arthur Koestler (1964) indica en *Los sonámbulos* que pueden encontrarse algunos patrones en la evolución de los descubrimientos que se han dado a lo largo de las cambiantes visiones acerca del universo y además, que los trabajos de Copérnico, Kepler y Galileo se caracterizan por tres capacidades intelectuales: capacidad de síntesis, creatividad y mentalidad abierta. La siguiente Tabla señala cómo Kepler y Galileo manifestaron estas tres capacidades intelectuales.
 
 <p align="center" width="100%">
-    <img width="600" src=""> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig2.JPG?raw=true"> 
 </p>
 
 **Fuente:** elaboración propia de los autores.
@@ -118,7 +118,7 @@ El Programa para la Evaluación Internacional de Alumnos desarrollado por la Org
 La evaluación en las pruebas PISA considera tres subescalas (identificar temas científicos, explicar científicamente fenómenos y usar evidencia científica) y dos tipos de conocimientos (conocimientos de la ciencia y sobre la ciencia). Como muestra del nivel de alcanzado por los estudiantes del sistema educativo mexicano, la Tabla 1.2 presenta los resultados de las pruebas PISA en los ciclos 2003 y 2006. En dicha Tabla se comparan los desempeños logrados en promedio por México con los del promedio de todos los países participantes (este valor se indica como OCDE) y luego se señala el rango correspondiente como cociente del lugar ocupado por México entre el número de países participantes. Cabe observar que para el ciclo 2006 ocupamos el penúltimo lugar en ciencias, correspondiendo el primer lugar a Finlandia con 563 puntos (PISA 2006  2006: 15).
 
 <p align="center" width="100%">
-    <img width="600" src=""> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig3.JPG?raw=true"> 
 </p>
 
 **Fuente:** http://www.pisa.oecd.org/document
