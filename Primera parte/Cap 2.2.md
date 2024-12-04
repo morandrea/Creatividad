@@ -107,7 +107,7 @@ Este laberinto se ha diseñado como una prueba de evaluación formativa para pro
 A continuación, se muestran los contenidos propuestos en forma de preguntas a ser contestadas para las 11 estaciones del laberinto. Cada estación (E) corresponde a uno de los temas del curso que previamente han llevado los profesores que habrán de diseñar sus laberintos. 
 
 <p align="center" width="100%">
-    <img width="600" src=""> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig11.JPG?raw=true"> 
 </p>
 
 E1:   ¿Cuál es el límite de validez de la mecánica netwtoniana respecto de sistemas cuya velocidad es cercana a la de la luz? [*Entrada al laberinto y selección de la opción que permite iniciar la Ruta A.*]
@@ -141,7 +141,7 @@ Teniendo como antecedente el contenido de las estaciones y la propuesta de un co
 <u>Contexto (estación E1):</u> Margarita es una física experimental que trabaja en un acelerador de partículas y está preocupada por saber hasta dónde funciona lo que sabe de mecánica newtoniana respecto de las características del espacio y del tiempo; necesita describir el movimiento de partículas como los electrones cuando son acelerados a velocidades cercanas a la de la luz.
 
 <p align="center" width="100%">
-    <img width="600" src=""> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig12.JPG?raw=true"> 
 </p>
 
 
@@ -158,7 +158,7 @@ Información en Kc2: El signo positivo o negativo en la suma algebraica de las m
 OPCIÓN (c): Para Javier, las tres componentes de la velocidad de observación serán tales que $(v_e)_x ± (v_p)_x$, $(v_e)_y ± (v_p)_y$ y $(v_e)_z ± (v_p)_z$, según que los movimientos sean en sentidos iguales o en sentidos contrarios. [*Respuesta con un error procedimental, ir al kiosco Kp2.*]
 
 <p align="center" width="100%">
-    <img width="600" src=""> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig13.JPG?raw=true"> 
 </p>
 
 Información en Kp2: El principio de superposición se aplica a la suma algebraica de las magnitudes de las componentes de las velocidades que tienen la misma dirección. Las transformaciones de Galileo indican que sólo cambia la componente en la dirección del movimiento; esta dirección debe ser la misma para el haz de electrones y para la plataforma, aunque puedan ser en el mismo sentido o en sentidos contrarios. Por otra parte, las magnitudes de las componentes de las velocidades en las dos direcciones mutuamente perpendiculares a la dirección del movimiento son las mismas en el sistema de la plataforma donde está Margarita, el sistema que se encuentra en movimiento relativo respecto del laboratorio, y en el sistema en reposo del laboratorio en donde está Javier. [*Regresar a E2 y seleccionar otra opción.*]
