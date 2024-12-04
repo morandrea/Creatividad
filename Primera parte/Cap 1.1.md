@@ -56,10 +56,9 @@ Fase 3: Finalmente, se alcanza el balance apropiado entre las representaciones i
 
 Aproximadamente en los años 385- 387 AC, en el norte de Atenas, en un lugar destinado al dios Academus o Hecademus, había un gimnasio al que asistía un discípulo de Sócrates llamado Aristocles (el mejor y más renombrado), quien luego fue identificado con el apodo de Platón, porque sus compañeros luchadores así lo caracterizaron por ser ancho y de constitución robusta (Durant, 1966, Vol. 2, p. 510). Ahí Platón fundó la Academia, una institución dedicada al aprendizaje y a la investigación de las matemáticas y la filosofía, donde se enseñaba y discutía en griego antiguo. En el portal de la Academia estaba inscrita la siguiente advertencia: *“Aγεωμέτρητος μηδείς εἰσίτω: ageometretos medeis eisito”*; es decir, “no entren aquí quienes no sepan geometría”; dicho de otra manera “que nadie entre aquí si no entiende el lenguaje de la geometría”. Esto lo expresó de manera visual Rafael Sanzio (1483 – 1520) en su famoso cuadro La Escuela de Atenas, y de manera escrita el científico Bernal (1901-1971): 
 
-!!! example ""
-	La ciencia moderna se deriva directamente de la ciencia Griega, la cual proporciona un esquema, un método y un lenguaje. Todos los problemas a partir de los cuales ha crecido la ciencia moderna fueron formulados por los griegos.
-    
-    John Desmond Bernal, Science in History, Volume 1
+||La ciencia moderna se deriva directamente de la ciencia Griega, la cual proporciona un esquema, un método y un lenguaje. Todos los problemas a partir de los cuales ha crecido la ciencia moderna fueron formulados por los griegos.
+
+John Desmond Bernal, Science in History, Volume 1||
 
 Hoy las circunstancias han cambiado en muchos aspectos, de manera que esquemas, métodos y lenguajes son diferentes a los que caracterizaron a los griegos en la antigüedad. Sin embargo, en todos los casos el manejo de lenguajes sigue siendo primordial para lograr la interacción efectiva entre la disciplina que se enseña (los contenidos temáticos: C), a quienes se les enseña (los estudiantes: E) y quienes la enseñan (los maestros: M). Los elementos C, E y M son los vértices del llamado triángulo educativo (Fig. 1.1).
 
