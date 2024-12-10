@@ -17,6 +17,7 @@ El individuo creativo manifiesta apertura a la exploración, la experimentación
 Existe una muy abundante literatura acerca de la creatividad, tanto desde el punto de vista filosófico, como del psicológico, pedagógico y artístico o cultural. En esta sección seleccionamos tres aspectos: (a) Definiciones del proceso creativo, (b) Características del proceso creativo y (c) Fases del aprendizaje para desarrollar procesos creativos. Al final del capítulo incluimos las correspondientes referencias.
 
 !!! note "(a) Definiciones del proceso creativo."
+
     - “Actividad mental expresada en la identificación y solución de situaciones de donde se derivan resultados en los cuales se ha logrado convertir lo extraño en conocido, así como encontrar lo extraño en lo conocido” (Fernández, 1983).
     - “La creatividad cognitiva está conectada con la imaginería, la formación de conceptos, la categorización, la memoria y la solución de problemas” (Finke, Ward y Smith, 1992).
     - “ de conexión entre dimensiones de la experiencia previamente desconectadas entre sí, para alcanzar un alto nivel de evolución mental.  Es un acto de liberación, el desafío del hábito emprendido con originalidad” (Koestler, 1967).
