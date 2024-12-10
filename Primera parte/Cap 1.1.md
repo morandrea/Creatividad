@@ -16,19 +16,19 @@ El individuo creativo manifiesta apertura a la exploración, la experimentación
 
 Existe una muy abundante literatura acerca de la creatividad, tanto desde el punto de vista filosófico, como del psicológico, pedagógico y artístico o cultural. En esta sección seleccionamos tres aspectos: (a) Definiciones del proceso creativo, (b) Características del proceso creativo y (c) Fases del aprendizaje para desarrollar procesos creativos. Al final del capítulo incluimos las correspondientes referencias.
 
-*(a). Definiciones del proceso creativo.*
+!!! "(a) Definiciones del proceso creativo."
 
-- “Actividad mental expresada en la identificación y solución de situaciones de donde se derivan resultados en los cuales se ha logrado convertir lo extraño en conocido, así como encontrar lo extraño en lo conocido” (Fernández, 1983).
-- “La creatividad cognitiva está conectada con la imaginería, la formación de conceptos, la categorización, la memoria y la solución de problemas” (Finke, Ward y Smith, 1992).
-- “ de conexión entre dimensiones de la experiencia previamente desconectadas entre sí, para alcanzar un alto nivel de evolución mental.  Es un acto de liberación, el desafío del hábito emprendido con originalidad” (Koestler, 1967).
-- “Ver cosas de manera diferente, reconocer patrones y establecer conexiones. Estimular la curiosidad y promover la capacitación mediante experiencias, experimentos y demostraciones, para luego producir algo novedoso y útil” (Baez, 1983).
-- “Capacidad de innovar conceptos para permitirnos nuevos entendimientos de la naturaleza y la sociedad, de utilidad en el desarrollo de una capacidad para ajustarnos constantemente a situaciones siempre cambiantes, comprender lo desconocido y reformular el marco existente de conocimientos e instituciones” (Kakiuchi, 1983).
-- “Proceso de liberalización que se manifiesta en apertura en la percepción, curiosidad, intuición e imaginación.  Es un proceso inherentemente dialéctico, la síntesis que el individuo alcanza mediante su participación simultánea en tendencias competitivas” (Adair, 1983).
-- “Desarrollo de la inteligencia y del pensamiento independiente para la generación de estructuras útiles en la solución de problemas y la organización de ideas” (Alvares, 1983).
-- “Consiste en producir algo que no existía antes y de atribuirle un valor al resultado: es la búsqueda de alternativas” (DeBono, 1992).
-- “Proceso que consiste en desarrollar sensibilidad para captar problemas, deficiencias y huecos, elementos faltantes y disonancias en el conocimiento; búsqueda de soluciones por medio de la presentación de suposiciones o la formulación de hipótesis acerca de deficiencias; validación de tales hipótesis y posible modificación y prueba de los cambios; comunicación de los resultados” (Torrance, 1966).
-- “Acto deliberado de construcción, exploración y transformación de espacios conceptuales” (Boden, 1990).
-- “El aprendizaje creativo comprende adquisición, transformación y evaluación” (Bruner, 1962).
+    - “Actividad mental expresada en la identificación y solución de situaciones de donde se derivan resultados en los cuales se ha logrado convertir lo extraño en conocido, así como encontrar lo extraño en lo conocido” (Fernández, 1983).
+    - “La creatividad cognitiva está conectada con la imaginería, la formación de conceptos, la categorización, la memoria y la solución de problemas” (Finke, Ward y Smith, 1992).
+    - “ de conexión entre dimensiones de la experiencia previamente desconectadas entre sí, para alcanzar un alto nivel de evolución mental.  Es un acto de liberación, el desafío del hábito emprendido con originalidad” (Koestler, 1967).
+    - “Ver cosas de manera diferente, reconocer patrones y establecer conexiones. Estimular la curiosidad y promover la capacitación mediante experiencias, experimentos y demostraciones, para luego producir algo novedoso y útil” (Baez, 1983).
+    - “Capacidad de innovar conceptos para permitirnos nuevos entendimientos de la naturaleza y la sociedad, de utilidad en el desarrollo de una capacidad para ajustarnos constantemente a situaciones siempre cambiantes, comprender lo desconocido y reformular el marco existente de conocimientos e instituciones” (Kakiuchi, 1983).
+    - “Proceso de liberalización que se manifiesta en apertura en la percepción, curiosidad, intuición e imaginación.  Es un proceso inherentemente dialéctico, la síntesis que el individuo alcanza mediante su participación simultánea en tendencias competitivas” (Adair, 1983).
+    - “Desarrollo de la inteligencia y del pensamiento independiente para la generación de estructuras útiles en la solución de problemas y la organización de ideas” (Alvares, 1983).
+    - “Consiste en producir algo que no existía antes y de atribuirle un valor al resultado: es la búsqueda de alternativas” (DeBono, 1992).
+    - “Proceso que consiste en desarrollar sensibilidad para captar problemas, deficiencias y huecos, elementos faltantes y disonancias en el conocimiento; búsqueda de soluciones por medio de la presentación de suposiciones o la formulación de hipótesis acerca de deficiencias; validación de tales hipótesis y posible modificación y prueba de los cambios; comunicación de los resultados” (Torrance, 1966).
+    - “Acto deliberado de construcción, exploración y transformación de espacios conceptuales” (Boden, 1990).
+    - “El aprendizaje creativo comprende adquisición, transformación y evaluación” (Bruner, 1962).
 
 *(b). Características del proceso creativo.*
 
