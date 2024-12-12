@@ -139,7 +139,7 @@ O4. Comparar la solución obtenida por Planck con las predicciones derivadas de 
 La Figura 1.4 compara en escala logrítmica las predicciones de las leyes de Rayleigh-Jeans (rojo), Wien (azul) y Planck (verde).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig17.JPG?raw=true"> 
+    <img width="300" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig17.JPG?raw=true"> 
 </p>
 
 (Fuente: CC Wikimedia Commons)
