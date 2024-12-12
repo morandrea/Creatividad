@@ -136,7 +136,7 @@ E10: ¿Cómo se explica la conversión de masa en energía?
 
 E11: [*Salida del laberinto.*] 
 
-Teniendo como antecedente el contenido de las estaciones y la propuesta de un contexto de aprendizaje que tenga que ver con una situación de física donde se aplique la teoría de la relatividad especial, cada jugador (profesor de Física del bachillerato) reformulará el contenido de las preguntas de cada estación. En la primera estación el profesor debe plantear su contexto y en las estaciones subsecuentes replantear de manera contextualizada la pregunta que describe cada estación.  N lo que sigue presentamos un posible ejemplo tanto del contexto general del laberinto (estación E1) como de la pregunta generadora correspondiente a dicho contexto que deberá resolverse en la estación E2.
+Teniendo como antecedente el contenido de las estaciones y la propuesta de un contexto de aprendizaje que tenga que ver con una situación de física donde se aplique la teoría de la relatividad especial, cada jugador (profesor de Física del bachillerato) reformulará el contenido de las preguntas de cada estación. En la primera estación el profesor debe plantear su contexto y en las estaciones subsecuentes replantear de manera contextualizada la pregunta que describe cada estación.  En lo que sigue presentamos un posible ejemplo tanto del contexto general del laberinto (estación E1) como de la pregunta generadora correspondiente a dicho contexto que deberá resolverse en la estación E2.
 
 <u>Contexto (estación E1):</u> Margarita es una física experimental que trabaja en un acelerador de partículas y está preocupada por saber hasta dónde funciona lo que sabe de mecánica newtoniana respecto de las características del espacio y del tiempo; necesita describir el movimiento de partículas como los electrones cuando son acelerados a velocidades cercanas a la de la luz.
 
@@ -151,7 +151,7 @@ Para responder a la pregunta generadora planteada en la estación E2, el profeso
 
 OPCIÓN (a): Cuando el movimiento del haz de electrones y el de la plataforma son en la misma dirección, la velocidad de observación de Javier es la suma algebraica de las magnitudes de las velocidades $v_e ± v_p$, según que los movimientos sean en el mismo sentido o en sentidos contrarios. [*Respuesta correcta, ir a la siguiente estación (E3).*]
 
-OPCIÓN (b): La velocidad con la cual Javier observa el haz de electrones será el vector resultante $v_e ± v_p$, en donde el signo positivo corresponde al caso en que ambas velocidades tengan el mismo sentido y el signo negativo cuando son en sentidos contrarios. [*Respuesta con un error conceptual, ir al kiosco Kc2.*]
+OPCIÓN (b): La velocidad con la cual Javier observa el haz de electrones será el vector resultante $\vec{v_e} ± \vec{v_p}$, en donde el signo positivo corresponde al caso en que ambas velocidades tengan el mismo sentido y el signo negativo cuando son en sentidos contrarios. [*Respuesta con un error conceptual, ir al kiosco Kc2.*]
 
 Información en Kc2: El signo positivo o negativo en la suma algebraica de las magnitudes de las velocidades $v_e$ y $v_p$ corresponde a que los sentidos del movimiento son iguales o son opuestos, cuando la dirección del movimiento del haz de electrones es la misma que la del movimiento de la plataforma. Las transformaciones de Galileo suponen un tiempo y un espacio absoluto que no cambian al modificarse el sistema de referencia. [*Regresar a E2 y seleccionar otra opción.*]
 
