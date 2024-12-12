@@ -77,7 +77,7 @@ O1. Indicar las principales características de un cuerpo negro. Descripción en
 Un objeto opaco hueco funciona como cuerpo negro cuando absorbe toda la energía que incide sobre su superficie; es decir, que nada refleja. Por el contrario, la paredes interiores reflejan toda la radiación contenida en la cavidad. Si se hace un pequeño agujero en un extremo del cuerpo toda la radiación que penetra por el agujero es absorbida y es muy poco la que sale (Figura 1.3). Si esta cavidad hueca se coloca dentro de un horno con temperatura controlable y la intensidad de la radiación electromagnética emitida se mide con un dispositivo óptico externo como un espectrómetro, se observa que a medida que aumenta la temperatura el  el color del cuerpo calentado pasa del rojo al naranja, al amarillo, al verde, al azul y más allá del violeta, al ultravioleta. 
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig16.JPG?raw=true"> 
+    <img width="300" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig16.JPG?raw=true"> 
 </p>
 
 **Fuente:** CC Wikimedia Commons
