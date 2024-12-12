@@ -156,13 +156,9 @@ Según Martin Rich (1978), la formación de profesores basada en competencias/de
 
 En un documento elaborado por el Consejo Académico del Bachillerato (UNAM 2001: I-5, I-6 y I-8) se establece que el alumno que finalice sus estudios en la institución deberá poseer un conjunto de conocimientos, habilidades, valores y actitudes, expresados en términos de desempeños terminales. Al respecto se consideran la valoración y desarrollo de actitudes, así como los siguientes cuatro niveles cognoscitivos, de los cuales indicamos a continuación, casi en forma literal, en qué consiste cada nivel y cómo el alumno podrá evidenciar haber alcanzado el logro de este, mediante las acciones que señalamos entre paréntesis: 
 
-•	*Posesión de información:* no modifica información, sólo la recuerda y reproduce prácticamente de la misma forma en la que se adquirió originalmente (enunciar, nombrar, citar, identificar o reconocer, localizar, ubicar y distinguir).
-
-•	*Comprensión:* implica la asimilación de la información que permite su interpretación, sin alterar el significado de la comunicación original (definir, ordenar, jerarquizar, comparar, diferenciar, contrastar, clasificar, ejemplificar y seguir instrucciones).
-
-•	*Elaboración conceptual:* abstracción del significado de la información que permite la formación de ideas generales y establecimiento de causas, consecuencias, efectos o conclusiones que no están estrictamente incluidas en la comunicación original; incluye procesos de análisis, síntesis y evaluación (asociar, relacionar, establecer analogías, analizar, deducir, integrar, inducir, predecir, inferir y argumentar).
-
-•	*Solución de problemas:* uso del conocimiento y de las habilidades de razonamiento y su generalización o adaptación para la solución de nuevas situaciones (ejecución, resolución y proposición).”
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig20.jpeg?raw=true"> 
+</p>
 
 (4). Para estudiantes de la licenciatura en física y de una maestría para docentes de ciencias, según el Proyecto Tuning. 
 
