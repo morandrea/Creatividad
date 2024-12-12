@@ -84,13 +84,11 @@ Con propósitos de comunicación, las interacciones entre los elementos del menc
 
 Las transiciones entre estos tipos de lenguajes nos permiten definir los siguientes procesos: 
 
-- INDAGACIÓN: es la búsqueda de la información necesaria e incluye, entre otras funciones, la identificación y descripción de los objetos, agentes y fenómenos que componen el escenario en cuestión. Se refiere a la transición de un lenguaje icónico preliminar al lenguaje natural y corresponde a una intención de *exploración*. 
 
-- CAPACITACIÓN: es la especificación de los requisitos que deben satisfacer los lectores y que corresponden a la adquisición de conceptos y procedimientos en cierto campo del conocimiento. Se conecta con la transición del lenguaje natural al lenguaje técnico y expresa una intención de *experimentación*.
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig19.jpeg?raw=true"> 
+</p>
 
-- COMPRENSIÓN: es la puesta a prueba de lo ya conocido o de lo nuevo que se ha aprendido e implica el desarrollo de una serie de actividades de aprendizaje con el fin de proceder de la descripción a la explicación y a veces a la predicción. Según sea la naturaleza del texto, en ciencias al menos, podrán requerir de cálculos matemáticos y/o de experimentos. Se asocia a la transición del lenguaje técnico al lenguaje formal y revela una intención de *evaluación*.
-
-- METACOGNICIÓN: es la integración de los tres procesos anteriores cuando se ha obtenido la solución práctica y concreta de la situación o circunstancia descrita por el texto. Con una intención de *extensión*, concierne a la transición del lenguaje formal a un lenguaje icónico enriquecido por la reflexión acerca de los resultados obtenidos y la revisión crítica del proceso de su obtención. También incluye las posibles modificaciones que puedan presentarse en ampliaciones o modificaciones del planteamiento inicial. 
 
 ### La semiótica tipológica y la semiótica topológica.
 
