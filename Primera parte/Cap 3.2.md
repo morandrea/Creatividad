@@ -53,11 +53,11 @@ A continuación, después de describir los instrumentos utilizados en la investi
 La siguiente tabla muestra los propósitos perseguidos al utilizar determinados instrumentos (I) para recolectar la información acerca del procedimiento seguido al resolver problemas y utilizar habilidades metacognitivas:
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig19.JPG?raw=true"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig20.JPG?raw=true"> 
 </p>
 
 ### Ejemplo de resultados obtenidos. 
@@ -71,7 +71,7 @@ $PI_4$. ¿Qué habilidades cognitivas respecto de la solución de problemas de m
 $PI_5$. ¿Cómo saber si esas habilidades cognitivas se han modificado cuando se han incorporado habilidades metacognitivas en la solución de problemas?
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig21.JPG?raw=true"> 
 </p>
 
 Los números de la cuestión que se indican en el eje horizontal corresponden a doce acciones que se desarrollaron para cumplir con los requisitos necesarios para obtener la solución del problema de física considerado: 1: Plan de solución, 2: Información relevante, 3: Lo que se solicita; 4: Tema al que se refiere; 5: Descripción en palabras propias; 6: Obtención de la solución; 7: Valoración del resultado; 8: Valoración del procedimiento; 9: Diseño de un nuevo problema de física; 10: Elaboración de un dibujo y/o esquema; 11: Cálculos y 12: Empleo de un modelo matemático.
@@ -82,7 +82,7 @@ porcentajes del grupo experimental que fue capacitado en el uso de la metacognic
 La Gráfica 5.7 de la tesis reporta cómo son respecto de los elementos de la solución antes indicados las respuestas de los estudiantes al registro Solución de Problemas, cuando se comparan porcentajes durante el segundo ciclo (incorporar y ajustar) con los porcentajes durante el tercer ciclo (afinar y profundizar).
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig22.JPG?raw=true"> 
 </p>
 
 En esta segunda gráfica (Gráfica 5.7 de la tesis) se muestran los avances en los porcentajes de problemas contestados en dos ciclos consecutivos. Excepto para las cuestiones 1, 3 y 5, los porcentajes logrados después del tercer ciclo (afinar y profundizar) son mayores o iguales que los aprendizajes respecto del segundo ciclo (incorporar y ajustar). Esto indica que los estudiantes responden mejor cuando se han acostumbrado a reflexionar metacognitivamente.
@@ -96,15 +96,15 @@ Articulación de resultados para conformar ideas con posibilidades descriptivas 
 “En cada caso se asignaron problemas similares a grupos de cuatro estudiantes y se videograbaron sus comentarios para resolver cada problema. Después se procedió a analizar esas grabaciones en tres etapas: primero se identificaron a qué categorías de actividades correspondían sus comentarios; luego se midieron los correspondientes tiempos de duración para cada categoría, y finalmente, se graficaron las secuencias en que se fueron realizando las actividades de cada categoría, en el orden y con la duración en que se presentaron.” 
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig23.JPG?raw=true"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig24.JPG?raw=true"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig25.JPG?raw=true"> 
 </p>
 
 Al comparar las tres gráficas anteriores se observa cómo cambia el tiempo total empleado y en especial, cómo se modifica la secuencia y la duración de las actividades de cada categoría. Mientras que al inicio del ciclo se dedica bastante tiempo a obtener la solución sin antes pensar con cuidado qué hacer y hay categorías que no se atienden, al término del ciclo la secuencia sigue un orden más lógico y sin vacilaciones; además, se atienden todas las categorías en un tiempo que es aproximadamente un 30% menor que al inicio del ciclo.”
