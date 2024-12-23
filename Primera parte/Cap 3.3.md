@@ -1,26 +1,30 @@
-3.3. Ejemplo de un contexto de aprendizaje en física (mecánica).
+## 3.3. Ejemplo de un contexto de aprendizaje en física (mecánica).
 
 Ahora veremos un ejemplo concreto de contextualización del aprendizaje en cuyos planteamientos son relevantes muchos de los conceptos tratados con anterioridad. Este contexto parte de la especificación de una situación problematizadora (describir la trayectoria de una nave espacial que va de la Tierra a Marte), continúa con la presentación de una serie de preguntas generadoras y culmina con la descripción de actividades de aprendizaje y de evaluación.
 
-Preguntas generadoras
+### Preguntas generadoras.
 
-	¿cómo puedo enviar una nave espacial que parta de una plataforma móvil (la Tierra) y deba llegar a un blanco móvil (el planeta Marte)?
-	¿cuáles son las posiciones y momentos más adecuados para el despegue de la nave de la Tierra y para su descenso en Marte?
-	¿cuáles son las fuerzas que actúan sobre la nave espacial cuando despega en forma vertical de la superficie de la Tierra y luego durante las siguientes etapas de su trayectoria?
-	¿cómo se transforma la trayectoria inicial de la nave en una parábola que luego se convierte en una órbita circular cuando la nave circunnavega a la Tierra?
-	¿cuál es la función de los gases de combustión expulsados por la nave en las distintas etapas del viaje interplanetario?
-	¿cuándo la nave aumenta su velocidad angular y alcanza la velocidad de escape?
-	¿por qué es preferible que después de salir de la órbita circunvecina a la Tierra la nave describa una órbita elíptica (la órbita de transferencia de Hohmann), en lugar de seguir una trayectoria rectilínea para aproximarse a Marte?
-	¿cómo y cuándo se realiza el descenso de la nave en Marte?
-	¿cómo es el consumo de energía durante las distintas etapas del viaje Tierra-Marte?
+- ¿cómo puedo enviar una nave espacial que parta de una plataforma móvil (la Tierra) y deba llegar a un blanco móvil (el planeta Marte)?
+- ¿cuáles son las posiciones y momentos más adecuados para el despegue de la nave de la Tierra y para su descenso en Marte?
+- ¿cuáles son las fuerzas que actúan sobre la nave espacial cuando despega en forma vertical de la superficie de la Tierra y luego durante las siguientes etapas de su trayectoria?
+- ¿cómo se transforma la trayectoria inicial de la nave en una parábola que luego se convierte en una órbita circular cuando la nave circunnavega a la Tierra?
+- ¿cuál es la función de los gases de combustión expulsados por la nave en las distintas etapas del viaje interplanetario?
+- ¿cuándo la nave aumenta su velocidad angular y alcanza la velocidad de escape?
+- ¿por qué es preferible que después de salir de la órbita circunvecina a la Tierra la nave describa una órbita elíptica (la órbita de transferencia de Hohmann), en lugar de seguir una trayectoria rectilínea para aproximarse a Marte?
+- ¿cómo y cuándo se realiza el descenso de la nave en Marte?
+- ¿cómo es el consumo de energía durante las distintas etapas del viaje Tierra-Marte?
 
 La Figura 3.1a es un dibujo hecho por Isaac Newton en su libro The System of the World donde muestra cómo el tiro parabólico inicial se transforma en una serie de órbitas circunvecinas a la Tierra. La figura 3.1b indica en forma esquemática y fuera de toda escala, la trayectoria de la nave antes, durante y después de transitar por la órbita de transferencia de Hohmann. 
 
-Figura 3.1. Salida de la nave desde la Tierra según Newton (a) y trayectoria de la nave (b), cuando sale de la órbita circunvecina a la Tierra (círculos verdes), entra a la órbita de transferencia de Hohmann (cruces en negro) y llega a la órbita circular circunvecina a Marte (círculos rojos).
+<p align="center" width="100%">
+    <img width="600" src=" "> 
+</p>
 
-Fuente: elaboración propia a partir del dibujo de Newton y de la descripción de la trayectoria.
+**Figura 3.1.** Salida de la nave desde la Tierra según Newton (a) y trayectoria de la nave (b), cuando sale de la órbita circunvecina a la Tierra (círculos verdes), entra a la órbita de transferencia de Hohmann (cruces en negro) y llega a la órbita circular circunvecina a Marte (círculos rojos).
 
-Descripción de actividades de aprendizaje.
+**Fuente:** elaboración propia a partir del dibujo de Newton y de la descripción de la trayectoria.
+
+### Descripción de actividades de aprendizaje.
 
 Dependiendo de la población escolar y del nivel del curso en que se desarrollará este contexto del viaje interplanetario, se habrá de definir con qué intención (exploración, experimentación, evaluación y extensión) se desarrollarán los distintos procesos (indagación, capacitación, comprensión y metacognición). En la siguiente Tabla 3.1 se presenta una muestra de posibles actividades de aprendizaje. En el caso de un posible curso introductorio de Física a nivel de una licenciatura, tales actividades habrán de requerir de conocimientos y habilidades que tendrán que ver con aspectos conceptuales de mecánica clásica y con habilidades procedimentales asociadas con ramas de las matemáticas tales como álgebra, trigonometría, geometría analítica y cálculo diferencial e integral. A continuación, nos referiremos a las actividades de aprendizaje; las actividades de evaluación serán consideradas más adelante.
 
@@ -28,14 +32,13 @@ Dependiendo de la población escolar y del nivel del curso en que se desarrollar
     <img width="600" src=" "> 
 </p>
 
-Fuente: elaboración propia
+**Fuente:** elaboración propia.
 
-
-Descripción de actividades de evaluación.
+### Descripción de actividades de evaluación.
 
 Las actividades de evaluación en el contexto en cuestión estarán relacionadas con las respuestas que se den al aplicar el proceso de solución de problemas denominado TADIR, cuyos componentes son Traducción (T), Análisis (A), Diseño (D), Implementación (I) y Revisión (R).
 
-Traducción (T): Se describen los objetos, eventos y agentes que caracterizan el sistema físico considerado.
+*Traducción (T):* Se describen los objetos, eventos y agentes que caracterizan el sistema físico considerado.
 
 •	El sistema físico está formado por cuatro objetos (la nave espacial, la Tierra, Marte y el Sol); Sus posiciones relativas y velocidades se describen mediante vectores dependientes del tiempo.
 
@@ -43,11 +46,11 @@ Traducción (T): Se describen los objetos, eventos y agentes que caracterizan el
 
 •	Las interacciones entre los objetos pertenecientes al sistema corresponden a las fuerzas de gravedad ejercidas sobre la nave espacial por la Tierra (etapa ET1), por el Sol (etapa ET2) y por Marte (etapa ET3). Estas interacciones binarias son fuerzas centrales y conservativas que satisfacen el principio de superposición.
 
-Análisis (A): Se describen explícitamente todas las aproximaciones (A) necesarias para interpretar el sistema físico y posteriormente calcular la trayectoria de la nave. 
+*Análisis (A):* Se describen explícitamente todas las aproximaciones (A) necesarias para interpretar el sistema físico y posteriormente calcular la trayectoria de la nave. 
 
-A1: El Sol tiene una masa constante (mS) y está en una posición fija.
+A1: El Sol tiene una masa constante ($m_S$) y está en una posición fija.
 
-A2: Los planetas tienen masas constantes (mT y mM) y formas esféricas con radios medias (RT y RM); para efectos de este cálculo describen órbitas circulares centradas en el Sol con distancias medias (rT y rM). Los períodos de estas órbitas corresponden a velocidades angulares constantes (ωT y ωM). No tendremos en cuenta el hecho de que para órbitas elípticas tales velocidades son diferentes en el afelio y en el perihelio, porque para las etapas ET1 y ET2 la nave espacial se mueve en órbitas circulares.
+A2: Los planetas tienen masas constantes ($m_T$ y $m_M$) y formas esféricas con radios medias ($R_T$ y $R_M$); para efectos de este cálculo describen órbitas circulares centradas en el Sol con distancias medias ($r_T$ y $r_M$). Los períodos de estas órbitas corresponden a velocidades angulares constantes ($ω_T$ y $ω_M$). No tendremos en cuenta el hecho de que para órbitas elípticas tales velocidades son diferentes en el afelio y en el perihelio, porque para las etapas ET1 y ET2 la nave espacial se mueve en órbitas circulares.
 
 A3: En las etapas ET1 y ET3 sólo se consideran las interacciones gravitacionales entre la nave espacial y el planeta correspondiente; la interacción de la nave espacial con el Sol es insignificante. No se tienen en cuenta los efectos de la fricción y durante toda la trayectoria de la nave espacial no se considera la interacción Tierra-Marte. 
 
@@ -59,13 +62,13 @@ A6: La órbita de transferencia corresponde a una elipse cuyo perihelio es el pu
 
 A7: Durante la salida en la etapa ET1, la nave espacial cambia de una velocidad inicial vi a una velocidad final vf y el combustible quemado sale con una velocidad v0 con respecto a la nave espacial. Al llegar a Marte, al final de la etapa ET3, la masa de la nave espacial cambia debido a que la nave tiene que frenarse para descender en Marte. Además, la masa m de la nave espacial cambia cuando se modifican las velocidades en la entrada y salida de la órbita de transferencia de Hohmann en la etapa ET2. Todos estos cambios de velocidad se obtienen porque el mecanismo de acción - reacción funciona cuando la salida del combustible quemado provoca el avance de la nave¸ lo cual agota gradualmente el combustible contenido en los cohetes acoplados a la nave espacial. 
 
-Diseño (D): Para que el movimiento de la nave sea posible y la trayectoria del viaje interplanetario implique salir de la Tierra y llegar a Marte, se requieren acciones como las siguientes (Figura 3.2):
+*Diseño (D):* Para que el movimiento de la nave sea posible y la trayectoria del viaje interplanetario implique salir de la Tierra y llegar a Marte, se requieren acciones como las siguientes (Figura 3.2):
 
 ACCIÓN 1: Durante la salida vertical la nave abandona una plataforma de un planeta en rotación, por lo que la nave espacial recibe el efecto acelerado de dos fuerzas: la fuerza de escape de los gases de combustión que empuja la nave hacia arriba y la aceleración de la gravedad de la Tierra que actúa hacia abajo. Mientras que la fuerza de escape puede considerarse que cambia poco conforme el combustible se quema, la fuerza con que la Tierra atrae a la nave cambia con la altura.
 
-ACCIÓN 2: Para salir de la atmósfera terrestre, la trayectoria vertical de la nave espacial se transforma en una trayectoria parabólica cuando a la nave se le agrega una componente horizontal a la velocidad vertical inicial; más tarde, esta trayectoria se transforma en una órbita circular cuando se alcanza el valor de inserción de la velocidad (vi) a una cierta altitud (h).
+ACCIÓN 2: Para salir de la atmósfera terrestre, la trayectoria vertical de la nave espacial se transforma en una trayectoria parabólica cuando a la nave se le agrega una componente horizontal a la velocidad vertical inicial; más tarde, esta trayectoria se transforma en una órbita circular cuando se alcanza el valor de inserción de la velocidad ($v_i$) a una cierta altitud ($h$).
 
-ACCIÓN 3: La nave espacial circunnavega alrededor de la Tierra e incrementa su velocidad angular hasta alcanzar la velocidad de escape (ve).
+ACCIÓN 3: La nave espacial circunnavega alrededor de la Tierra e incrementa su velocidad angular hasta alcanzar la velocidad de escape ($v_e$).
 
 ACCIÓN 4: La parte más larga de la trayectoria completa se encuentra entre dos órbitas de circunnavegación, una órbita alrededor de la Tierra a la salida y otra alrededor de Marte a la llegada. El camino más corto entre estas dos órbitas circulares es una línea recta, pero los cambios de dirección implican gastos considerables de combustible. La trayectoria más eficiente es la órbita de transferencia de Hohmann porque durante esta trayectoria no hay consumo de energía, aunque la nave espacial tarde más tiempo.
 
@@ -75,16 +78,17 @@ ACCIÓN 5: Para que la nave descienda en la superficie del planeta debe pasar de
     <img width="600" src=" "> 
 </p>
 
-Figura 3.2. Diseño de la solución del problema incluyendo Aproximaciones (A1, A2,... A7).
+**Figura 3.2.** Diseño de la solución del problema incluyendo Aproximaciones (A1, A2,... A7).
 
-Fuente: elaboración propia
+**Fuente:** elaboración propia
 
 
-Implementación (I): A continuación, se describen las principales ecuaciones y operaciones matemáticas correspondientes a las cinco acciones descritas en la etapa previa de Diseño. Por brevedad, nos limitamos a indicar las ecuaciones requeridas y los resultados correspondientes, sin entrar en los detalles de los procedimientos matemáticos.
+*Implementación (I):* A continuación, se describen las principales ecuaciones y operaciones matemáticas correspondientes a las cinco acciones descritas en la etapa previa de Diseño. Por brevedad, nos limitamos a indicar las ecuaciones requeridas y los resultados correspondientes, sin entrar en los detalles de los procedimientos matemáticos.
 
-ACION 1
-Cambio en la velocidad de la nave: v_f- v_i= - v_0 [∫_(m_i)^(m_f)▒(dm/m) ]= v_0 [ln(m_i/m_f )] 
-Variación en la aceleración de la gravedad: F_G=  (Gm_S m)/(R_E+ h)^2 =mg; g_0=  (Gm_E)/(R_E )^2 ;  g≈ g_0 [1- 2h/R_E +⋯]
+ACCIÓN 1
+Cambio en la velocidad de la nave: $v_f-v_i=-v_0 [∫_{m_i}^{m_f}(\frac{dm}{m})]= v_0 [ln(\frac{m_i}{m_f})]$ 
+
+Variación en la aceleración de la gravedad: $F_G= \frac(Gm_S m)/(R_E+ h)^2 =mg; g_0=  (Gm_E)/(R_E )^2 ;  g≈ g_0 [1- 2h/R_E +⋯]$
 
 ACCIÓN 2
 Velocidad en la órbita circular: (mv^2)/R_E =G (m_E m)/(R_E )^2 ,v= √([(Gm_E)/R_E ] )
