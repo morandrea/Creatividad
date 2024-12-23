@@ -109,7 +109,7 @@ La nave espacial tiene una masa $m$ y se encuentra en una órbita de circunnaveg
 La fuerza entre el Sol y la nave espacial es conservativa, por lo tanto, la energía mecánica se conserva en todos los puntos de la elipse, tanto en el perihelio en A (el punto más cercano al Sol) como en el afelio en B (el punto más alejado del Sol). Como esta fuerza también es central, el momento angular es igual en A y en B. Además, el Sol (S) se encuentra en uno de los focos de la elipse que corresponde a la órbita de transferencia de Hohmann (Figura 3.3). Si la Tierra está en A y Marte en B, las distancias entre el Sol y cada uno de los planetas son: $SA = r_E$ y $SB = r_M$; por lo tanto, el eje mayor de la elipse es $a = [(r_E + r_M)/2]$.
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig29.JPG?raw=true"> 
+    <img width="200" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig29.JPG?raw=true"> 
 </p>
 
 **Figure 3.3.** Órbita de transferencia de A a B.
