@@ -17,7 +17,7 @@ Ahora veremos un ejemplo concreto de contextualización del aprendizaje en cuyos
 La Figura 3.1a es un dibujo hecho por Isaac Newton en su libro The System of the World donde muestra cómo el tiro parabólico inicial se transforma en una serie de órbitas circunvecinas a la Tierra. La figura 3.1b indica en forma esquemática y fuera de toda escala, la trayectoria de la nave antes, durante y después de transitar por la órbita de transferencia de Hohmann. 
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig26.JPG?raw=true"> 
 </p>
 
 **Figura 3.1.** Salida de la nave desde la Tierra según Newton (a) y trayectoria de la nave (b), cuando sale de la órbita circunvecina a la Tierra (círculos verdes), entra a la órbita de transferencia de Hohmann (cruces en negro) y llega a la órbita circular circunvecina a Marte (círculos rojos).
@@ -29,7 +29,7 @@ La Figura 3.1a es un dibujo hecho por Isaac Newton en su libro The System of the
 Dependiendo de la población escolar y del nivel del curso en que se desarrollará este contexto del viaje interplanetario, se habrá de definir con qué intención (exploración, experimentación, evaluación y extensión) se desarrollarán los distintos procesos (indagación, capacitación, comprensión y metacognición). En la siguiente Tabla 3.1 se presenta una muestra de posibles actividades de aprendizaje. En el caso de un posible curso introductorio de Física a nivel de una licenciatura, tales actividades habrán de requerir de conocimientos y habilidades que tendrán que ver con aspectos conceptuales de mecánica clásica y con habilidades procedimentales asociadas con ramas de las matemáticas tales como álgebra, trigonometría, geometría analítica y cálculo diferencial e integral. A continuación, nos referiremos a las actividades de aprendizaje; las actividades de evaluación serán consideradas más adelante.
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig27.JPG?raw=true"> 
 </p>
 
 **Fuente:** elaboración propia.
@@ -75,7 +75,7 @@ ACCIÓN 4: La parte más larga de la trayectoria completa se encuentra entre dos
 ACCIÓN 5: Para que la nave descienda en la superficie del planeta debe pasar de la órbita de circunnavegación a arcos de parábolas siguiendo un proceso inverso a la ACCIÓN 2.
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig28.JPG?raw=true"> 
 </p>
 
 **Figura 3.2.** Diseño de la solución del problema incluyendo Aproximaciones (A1, A2,... A7).
@@ -86,61 +86,49 @@ ACCIÓN 5: Para que la nave descienda en la superficie del planeta debe pasar de
 *Implementación (I):* A continuación, se describen las principales ecuaciones y operaciones matemáticas correspondientes a las cinco acciones descritas en la etapa previa de Diseño. Por brevedad, nos limitamos a indicar las ecuaciones requeridas y los resultados correspondientes, sin entrar en los detalles de los procedimientos matemáticos.
 
 ACCIÓN 1
+
 Cambio en la velocidad de la nave: $v_f-v_i=-v_0 [∫_{m_i}^{m_f}(\frac{dm}{m})]= v_0 [ln(\frac{m_i}{m_f})]$ 
 
-Variación en la aceleración de la gravedad: $F_G= \frac(Gm_S m)/(R_E+ h)^2 =mg; g_0=  (Gm_E)/(R_E )^2 ;  g≈ g_0 [1- 2h/R_E +⋯]$
+Variación en la aceleración de la gravedad: $F_G= \frac{Gm_Sm}{(R_E+ h)^2 }=mg$; $g_0=  \frac{Gm_E}{(R_E)^2} ;  $g≈ g_0 [1-\frac{2h}{R_E}+⋯]$
 
 ACCIÓN 2
-Velocidad en la órbita circular: (mv^2)/R_E =G (m_E m)/(R_E )^2 ,v= √([(Gm_E)/R_E ] )
-Velocidad de inserción en la órbita circular: (m(v_i )^2)/((R_E+ h) )=  (Gm_E m)/(R_E+ h)^2 ;  v_i  ≈ g_0 [1- h/〖2R〗_E +⋯]
+
+Velocidad en la órbita circular: $\frac{mv^2}{R_E} =G\frac{m_Em}{(R_E)^2}, $v= \sqrt{[\frac{Gm_E}{R_E}]}$
+
+Velocidad de inserción en la órbita circular: $\frac{(m(v_i)^2}{(R_E+ h)}= \frac{Gm_Em}{(R_E+h)^2}$; $v_i ≈ g_0 [1- \frac{h}{2R_E} +⋯]$
 
 ACCIÓN 3
-Velocidad en la órbita circular: □(1/2) [m(v_e )^2 ]-  (Gmm_E)/(R_E+h)=0; v_e=√(((2Gm_E)/(R_E+h)) )
+
+Velocidad en la órbita circular: $\frac{1}{2}[m(v_e)^2]-\frac{Gmm_E}{R_E+h}=0$; $v_e=\sqrt{(\frac{2Gm_E}{R_E+h})}$
 
 
 ACCIÓN 4
 
-La nave espacial tiene una masa m y se encuentra en una órbita de circunnavegación a la Tierra con velocidad  v_A=√([(Gm_E)/r_E ] ) que cambia a la velocidad v’A cuando la nave entra en la órbita de transferencia en la posición A, lo cual corresponde al incremento positivo ∆v_A= 〖v´〗_A- v_A. Cuando la nave pasa de A a B a lo largo de la órbita de transferencia de Hohmann, recorre la mitad de una elipse sin gastar energía. Luego abandona la órbita de transferencia con velocidad v’B y entra en una órbita de circunnavegación en B con una velocidad v_B=√([(Gm_M)/r_M ] ) que corresponde a un incremento negativo de velocidades ∆v_B= 〖v´〗_B- v_B
+La nave espacial tiene una masa $m$ y se encuentra en una órbita de circunnavegación a la Tierra con velocidad  $v_A=\sqrt{[\frac{Gm_E}{r_E}]}$ que cambia a la velocidad $v’A$ cuando la nave entra en la órbita de transferencia en la posición A, lo cual corresponde al incremento positivo $∆v_A=v’_A- v_A$. Cuando la nave pasa de A a B a lo largo de la órbita de transferencia de Hohmann, recorre la mitad de una elipse sin gastar energía. Luego abandona la órbita de transferencia con velocidad $v’B$ y entra en una órbita de circunnavegación en B con una velocidad $v_B=\sqrt{[\frac{Gm_M}{r_M}]}$ que corresponde a un incremento negativo de velocidades $∆v_B=v’_B- v_B$
 
-La fuerza entre el Sol y la nave espacial es conservativa, por lo tanto, la energía mecánica se conserva en todos los puntos de la elipse, tanto en el perihelio en A (el punto más cercano al Sol) como en el afelio en B (el punto más alejado del Sol). Como esta fuerza también es central, el momento angular es igual en A y en B. Además, el Sol (S) se encuentra en uno de los focos de la elipse que corresponde a la órbita de transferencia de Hohmann (Figura 3.3). Si la Tierra está en A y Marte en B, las distancias entre el Sol y cada uno de los planetas son: SA = rE y SB = rM; por lo tanto, el eje mayor de la elipse es a = [(rE + rM)/2].
+La fuerza entre el Sol y la nave espacial es conservativa, por lo tanto, la energía mecánica se conserva en todos los puntos de la elipse, tanto en el perihelio en A (el punto más cercano al Sol) como en el afelio en B (el punto más alejado del Sol). Como esta fuerza también es central, el momento angular es igual en A y en B. Además, el Sol (S) se encuentra en uno de los focos de la elipse que corresponde a la órbita de transferencia de Hohmann (Figura 3.3). Si la Tierra está en A y Marte en B, las distancias entre el Sol y cada uno de los planetas son: $SA = r_E$ y $SB = r_M$; por lo tanto, el eje mayor de la elipse es $a = [(r_E + r_M)/2]$.
 
 <p align="center" width="100%">
-    <img width="600" src=" "> 
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig29.JPG?raw=true"> 
 </p>
 
-Figure 3.3. Órbita de transferencia de A a B.
+**Figure 3.3.** Órbita de transferencia de A a B.
 
-Fuente: elaboración propia
+**Fuente:** elaboración propia
 
-Principales ecuaciones
+### Principales ecuaciones.
 
-La Tierra circunnavega al Sol:  (m_E (v_A )^2)/r_E =  (Gm_E m_S)/(r_E )^2 
-
-Energía de la nave en la posición A: E_A=□(1/2) [m(v_A )^2 ]-  (Gmm_E)/r_E 
-
-Marte circunnavega al Sol: (m_M (v_B )^2)/r_M =  (Gm_M m_S)/(r_M )^2 
-
-Energía de la nave en la posición B: E_B=□(1/2) [m(v_B )^2 ]-  (Gmm_M)/r_M 
-
-Conservación de la energía (EA = EB):
-    
-                         E_A=□(1/2) [m(〖v´〗_A )^2 ]-  (Gmm_S)/r_E = E_B=□(1/2) [m(〖v´〗_B )^2 ]-  (Gmm_S)/r_M 
-
-Conservación del momento angular (LA = LB): r_(E ) [m(〖v´〗_A )]= r_(M ) [m(〖v´〗_B )];  〖v´〗_A= (r_(M )/r_(E ) ) 〖v´〗_B
-
-Conservación de la energía: (〖v´〗_A )^2/2-  (Gm_S)/r_E =  (〖v´〗_B )^2/2-  (Gm_S)/r_M ;
-                                        (〖v´〗_A )^2=((Gm_S)/a)(r_M/r_E )  y  (〖v´〗_A )^2=((Gm_S)/a)(r_M/r_E ) 
-
-Gasto de energía: ∆E_A= ((Gmm_S)/4a)((r_M-r_E)/r_E )  y  ∆E_B= ((Gmm_S)/4a)((r_M-r_E)/r_M ),e
-∆E_tot= ((Gmm_S)/4a)[((r_M )^2- (r_E )^2)/〖r_M r〗_E ]
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig30.JPG?raw=true"> 
+</p>
 
 ACCIÓN 5
 
 La nave espacial desciende sobre la superficie de Marte después de circunnavegarlo. Esta acción es similar, pero en orden inverso, a la correspondiente a la ACCIÓN 2 cuando la nave espacial abandona la Tierra.
 
-Revisión (R): Se confrontan las respuestas predichas y las que resulten de cálculos obtenidos en diferentes condiciones, ya sea modificando las aproximaciones o introduciendo nuevas complicaciones en el planteamiento del problema. A continuación, presentamos posibles modificaciones a las aproximaciones A2, A3, A4 y A7.
+*Revisión (R):* Se confrontan las respuestas predichas y las que resulten de cálculos obtenidos en diferentes condiciones, ya sea modificando las aproximaciones o introduciendo nuevas complicaciones en el planteamiento del problema. A continuación, presentamos posibles modificaciones a las aproximaciones A2, A3, A4 y A7.
 
-A2:  De acuerdo con la segunda ley de Kepler, los planetas describen órbitas elípticas con el Sol en uno de sus focos y sus velocidades angulares (ωE y ωM) son diferentes en el afelio y en el perihelio.
+A2:  De acuerdo con la segunda ley de Kepler, los planetas describen órbitas elípticas con el Sol en uno de sus focos y sus velocidades angulares ($ω_E$ y $ω_M$) son diferentes en el afelio y en el perihelio.
 
 A3: En las etapas ET1 y ET3 se tienen en cuenta los efectos de la fricción cuando la nave espacial sale y entra en la vecindad de cada planeta. 
 
